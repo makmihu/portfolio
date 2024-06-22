@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from './components/sections/Header'
 import ProjectCard from './components/sections/ProjectCard'
+import Contact from './components/sections/Contact'
 
 export default function App() {
   return (
@@ -31,6 +32,10 @@ export default function App() {
           code={'https://github.com/makmihu/rock-the-vote'}
         />
       </div>
+
+      <Contact  
+        display={"contact1"}
+      />
     </>
   )
 }

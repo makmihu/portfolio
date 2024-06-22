@@ -1,4 +1,5 @@
 import React from 'react'
+import Contact from './Contact'
 
 export default function Header() {
   return (
@@ -12,8 +13,23 @@ export default function Header() {
         </div>    
       </div>
 
-      <h1>Hi, I’m MaKayla Mihu</h1>
-      <h3>I'M EXCITED TO CREATE NEW THINGS</h3>
+      <div className='headerMain'>
+        <div className='photoContainer'>
+          <img src='src/components/photos/profile-photo-2024.jpg'/>
+        </div>
+        <div className='flexContainer'>
+          <div className='wordsContainer'>
+            <h1>Hi, I’m</h1>
+            <h1>MaKayla Mihu</h1>
+
+            <h3>I'M EXCITED TO CREATE NEW THINGS</h3>
+          </div>
+
+          <Contact 
+            display={'contact2'}
+          />
+        </div>
+      </div>
     </header>
   )
 }
