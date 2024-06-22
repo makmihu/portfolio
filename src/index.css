@@ -82,7 +82,7 @@ a:hover {
 .projectsHeader > p {
   font-size: 1.25em;
   color: rgb(200, 69, 69);
-  padding-bottom: .5em;
+  padding-bottom: em;
 }
 .card {
   padding: 1em 0;

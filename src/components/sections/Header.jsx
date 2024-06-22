@@ -15,7 +15,7 @@ export default function Header() {
 
       <div className='headerMain'>
         <div className='photoContainer'>
-          <img src='src/components/photos/profile-photo-2024.jpg'/>
+          <img src="/.netlify/images? url=/public/photos/profile-photo-2024.jpg"/>
         </div>
         <div className='flexContainer'>
           <div className='wordsContainer'>
