@@ -16,7 +16,7 @@ export default function App() {
 
         <ProjectCard 
           side={"left"}
-          img={'https://github.com/makmihu/portfolio/tree/main/public/photos/mikkie-makes-screenshot.JPG'}
+          img={'https://github.com/makmihu/portfolio/blob/main/public/photos/mikkie-makes-screenshot.JPG?raw=true'}
           name={"Mikkie Makes Shop"}
           desc={"This is a personal project that I have been working on and am continuing to build on as I learn to code more an more. I love to crochet and would eventually love to be able to not have my primary shop be on etsy."}
           live={"https://mikkie-makes.onrender.com/"}
@@ -25,7 +25,7 @@ export default function App() {
 
         <ProjectCard 
           side={"right"}
-          img={"https://github.com/makmihu/portfolio/tree/main/public/photos/rock-the-vote-screenshot.JPG"}
+          img={"https://github.com/makmihu/portfolio/blob/main/public/photos/rock-the-vote-screenshot.JPG?raw=true"}
           name={"Rock The Vote"}
           desc={"Rock the Vote (RTV) is a full stack application that allows a user to sign up, and gain access to post and vote or comment on other users post. Feel free to create your own user, or use our guest user 'guest' with the password 'guest'." }
           live={'https://rock-the-vote-edua.onrender.com/'}

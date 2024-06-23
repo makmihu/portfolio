@@ -15,7 +15,7 @@ export default function Header() {
 
       <div className='headerMain'>
         <div className='photoContainer'>
-          <img src="https://github.com/makmihu/portfolio/tree/main/public/photos/profile-photo-2024.jpg"/>
+          <img src="https://github.com/makmihu/portfolio/blob/main/public/photos/profile-photo-2024.jpg?raw=true"/>
         </div>
         <div className='flexContainer'>
           <div className='wordsContainer'>
