@@ -8,8 +8,8 @@ export default function Header() {
         <p><span className='bold'>Portfolio</span> by MaKayla Mihu</p> 
 
         <div className='externalLinks'>
-            <a href="https://www.linkedin.com/in/makayla-mihu-805448113/" target="_blank"><span className="fa-brands fa-linkedin linkImg">LinkedIn</span></a>
-            <a href='https://github.com/makmihu' target="_blank"><span className="fa-brands fa-github linkImg">GitHub</span></a>
+            <a href="https://www.linkedin.com/in/makayla-mihu-805448113/" target="_blank"><span className="fa-brands fa-linkedin linkImg"></span></a>
+            <a href='https://github.com/makmihu' target="_blank"><span className="fa-brands fa-github linkImg"></span></a>
         </div>    
       </div>
 
