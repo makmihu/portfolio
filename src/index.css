@@ -136,7 +136,7 @@ a:hover {
   text-align: center;
 }
 .contactContainer > p {
-  margin: .75em;
+  margin: .75em 0;
 }
 
 .contact2 {
@@ -273,7 +273,7 @@ a:hover {
   }
   .contact2{
     display: block;
-    margin: 1em 1em 0 1em;
+    margin-top: 1em;
     padding-top: 2em;
     border-top: #A08D89 .1em solid; 
   }
